@@ -1,0 +1,17 @@
+html, body, #root, .App {
+  height: 100%;
+  max-height: 100vh;
+  background-color: #f0f0f0;
+}
+body {
+  margin: 0px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  margin: 0px 16px;
+}
