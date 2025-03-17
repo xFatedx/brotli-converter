@@ -8,6 +8,9 @@ A lightweight **client-side Brotli compression and decompression** tool built wi
 - Base64-encoded output for easy copy-pasting  
 - Built with Vite for fast performance  
 
+## **Live Demo**
+Try it here: [brotli-converter.pages.dev](https://brotli-converter.pages.dev/)
+
 ## **Installation & Setup**  
 
 ### **1. Clone the Repository**  
