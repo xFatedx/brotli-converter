@@ -6,7 +6,7 @@ A lightweight **client-side Brotli compression and decompression** tool built wi
 - Fast client-side compression using WebAssembly (`fflate`)  
 - Supports Brotli compression and decompression  
 - Base64-encoded output for easy copy-pasting  
-- Built with Vite for fast performance  
+- Built with Vite for rapid development  
 
 ## **Installation & Setup**  
 
